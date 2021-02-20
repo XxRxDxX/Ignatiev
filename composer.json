@@ -1,0 +1,14 @@
+{
+    "name": "xxrxdxx/ignatiev",
+    "type": "library",
+    "authors": [{
+        "name": "Ignatiev Alexei",
+        "email": "frost8800@gmail.com"
+    }],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Ignatiev\\": ""
+        }
+    }
+}
